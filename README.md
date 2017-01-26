@@ -1,2 +1,2 @@
-# 588209-hmwk2
+# Rcorder4-hmwk2
 Just learning to use GitHub, Raul Cordero, Assignment 2
